@@ -1,2 +1,2 @@
 # hubnet
-creating dimple project
+creating simple project
